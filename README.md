@@ -2,7 +2,7 @@
 
 Physics GPT is an advanced AI physics assistant that provides precise solutions with step-by-step explanations for concepts from classical mechanics to quantum physics.
 
-![Physics GPT](https://www.physics-gpt.com)
+![Physics GPT](https://www.physics-gpt.com/)
 
 ## Features
 
